@@ -1,8 +1,12 @@
 # Humoyun Turaev (Ray)
 
-Full-stack and DevOps engineer based in Incheon, Korea. I lead web development on the
-Medical Software R&D team at Seeann Solution. We build an ordering platform for doctors,
-an internal office platform, and the servers both of them run on.
+Senior Lead Developer at **Seeann Solution** in Songdo, Incheon, Korea.
+
+Seeann Solution makes patient-specific surgical guides and implants from CT scans.
+I lead development of the company's medical ordering platform, where surgeons place orders
+and upload CT scans, and I'm responsible for the servers and databases behind it. I work on
+the Medical Software R&D team with our AI team, designers and surgeons. We also run an
+internal office platform, in production since June 2026.
 
 I've been working since 2020, first remotely for European product teams and now in Korea.
 I speak Korean, English, Russian and Uzbek.
